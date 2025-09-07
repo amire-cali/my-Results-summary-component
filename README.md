@@ -1,0 +1,1 @@
+# my-Results-summary-component
